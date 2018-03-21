@@ -49,7 +49,6 @@ end
 
 
 class Point
-
     def initialize(x,y)    
         @x = x.to_f
         @y = y.to_f 
@@ -63,6 +62,7 @@ class Point
     end
     
 end
+
 
 #binding.pry
 #x =  3
